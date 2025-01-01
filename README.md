@@ -16,20 +16,20 @@ I'm **Earl Tankard, Jr., Ph.D.** — a **Software Engineer** who is passionate a
 
 
 # Languages and Frameworks
-[![Python](https://img.shields.io/badge/Python-black?logo=Python)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript)](#)
-[![Java](https://img.shields.io/badge/Java-black?logo=openjdk)](#)
-[![C++](https://img.shields.io/badge/C++-black?logo=c)](#)
-[![C](https://img.shields.io/badge/C-black?logo=c)](#)
-[![FastAPI](https://img.shields.io/badge/FastAPI-black?logo=fastapi)](#)
-[![Node.js](https://img.shields.io/badge/Nodejs-black?logo=Node.js)](#)
-[![React](https://img.shields.io/badge/React-black?logo=react)](#)
-[![HTML5](https://img.shields.io/badge/HTML5-black?logo=html5)](#)
-[![SQL](https://img.shields.io/badge/SQL-black?logo=mysql)](#)
-[![Git](https://img.shields.io/badge/Git-black?logo=git)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](#)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=github-actions&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/-Python-black?logo=Python)](https://docs.python.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript)](https://www.typescriptlang.org/docs/)
+[![Java](https://img.shields.io/badge/Java-black?logo=openjdk)](https://docs.oracle.com/en/java/)
+[![C++](https://img.shields.io/badge/-C++-black?logo=c)](https://cplusplus.com/doc/)
+[![C](https://img.shields.io/badge/-C-black?logo=c)](https://en.cppreference.com/w/c)
+[![FastAPI](https://img.shields.io/badge/FastAPI-black?logo=fastapi)](https://fastapi.tiangolo.com/)
+[![Node.js](https://img.shields.io/badge/-Nodejs-black?logo=Node.js)](https://nodejs.org/en/docs/)
+[![React](https://img.shields.io/badge/-React-black?logo=react)](https://react.dev/)
+[![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql)](https://dev.mysql.com/doc/)
+[![Git](https://img.shields.io/badge/-Git-black?logo=git)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://docs.github.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
 
 
 # 📈 Statistics
