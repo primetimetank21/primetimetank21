@@ -33,7 +33,6 @@ I'm **Earl Tankard, Jr., Ph.D.** — a **Software Engineer** who is passionate a
 
 
 # 📈 Statistics
-<!-- [![Earl's GitHub stats](https://github-readme-stats.vercel.app/api?username=primetimetank21)](https://github.com/anuraghazra/github-readme-stats) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=primetimetank21&hide=html,&hide_border=true&title_color=5391FE&text_color=555)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=primetimetank21&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=primetimetank21)
