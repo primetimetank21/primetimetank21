@@ -2,7 +2,7 @@
 
 I'm **Earl Tankard, Jr., Ph.D.** — a **Software Engineer** who is passionate about **learning new technologies** and **helping others**.
  
-- 🏢 I'm currently working at: **Upwork** as a **Freelance Software Engineer** and am actively looking for a **Full-Time Software Engineer** role 
+- 🏢 I'm currently: eagerly waiting to start working at **[COMPANY COMING SOON ;)]** as a **Software Engineer**
 - 🚀 I primarily use: **Python**, **JavaScript**, **Git**, **Linux** && **VS Code**
 - 💻 I *really* enjoy working with: **FastAPI**, **React** && **Pydantic** 
 - ⚡️ Fun fact: When I'm not coding, you can find me playing video games 🎮, working out 💪🏾, and sharpening my Spanish 🇪🇸!
