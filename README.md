@@ -1,8 +1,8 @@
 # Hey There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px" height="25px"><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/beaming-face-with-smiling-eyes_1f601.gif" width="25px" height="25px">
 
 I'm **Earl Tankard, Jr., Ph.D.** — a **Software Engineer** who is passionate about **learning new technologies** and **helping others**.
- 
-- 🏢 I'm currently: eagerly waiting to start working at **[COMPANY COMING SOON ;)]** as a **Software Engineer**
+
+- 🏢 I'm currently: working at **Microsoft** as a **Software Engineer 2**
 - 🚀 I primarily use: **Python**, **JavaScript**, **Git**, **Linux** && **VS Code**
 - 💻 I *really* enjoy working with: **FastAPI**, **React** && **Pydantic** 
 - ⚡️ Fun fact: When I'm not coding, you can find me playing video games 🎮, working out 💪🏾, and sharpening my Spanish 🇪🇸!
