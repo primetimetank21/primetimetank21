@@ -31,7 +31,7 @@ I'm **Earl Tankard, Jr., Ph.D.** — a **Software Engineer** who is passionate a
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://docs.github.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
 [![Docker](https://img.shields.io/badge/Docker-black?logo=docker&logoColor=white)](https://docs.docker.com/)
-
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
 
 # 📈 Statistics
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=primetimetank21&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
