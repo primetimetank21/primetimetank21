@@ -4,7 +4,7 @@ I'm **Earl Tankard, Jr., Ph.D.** — a **Software Engineer** who is passionate a
 
 - 🏢 I'm currently: working at **Microsoft** as a **Software Engineer 2**
 - 🚀 I primarily use: **Python**, **JavaScript**, **Git**, **Linux** && **VS Code**
-- 💻 I *really* enjoy working with: **FastAPI**, **React** && **Pydantic** 
+- 💻 I *really* enjoy working with: **FastAPI**, **React**, **Pydantic** && **Docker** 
 - ⚡️ Fun fact: When I'm not coding, you can find me playing video games 🎮, working out 💪🏾, and sharpening my Spanish 🇪🇸!
 
 
@@ -30,6 +30,7 @@ I'm **Earl Tankard, Jr., Ph.D.** — a **Software Engineer** who is passionate a
 [![Git](https://img.shields.io/badge/-Git-black?logo=git)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://docs.github.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
+[![Docker](https://img.shields.io/badge/Docker-black?logo=docker&logoColor=white)](https://www.docker.com/)
 
 
 # 📈 Statistics
