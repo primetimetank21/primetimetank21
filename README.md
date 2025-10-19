@@ -30,7 +30,7 @@ I'm **Earl Tankard, Jr., Ph.D.** — a **Software Engineer** who is passionate a
 [![Git](https://img.shields.io/badge/-Git-black?logo=git)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://docs.github.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
-[![Docker](https://img.shields.io/badge/Docker-black?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Docker](https://img.shields.io/badge/Docker-black?logo=docker&logoColor=white)](https://docs.docker.com/)
 
 
 # 📈 Statistics
