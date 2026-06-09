@@ -11,9 +11,6 @@ I'm **Earl Tankard, Jr., Ph.D.** — a **Software Engineer** who is passionate a
 **Wanna connect? You can find me here:**
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/earl-tankard-jr/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram)](https://www.instagram.com/primetimetank_)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:earl.tankard.jr@gmail.com)
-
 
 # Languages and Frameworks
 [![Python](https://img.shields.io/badge/-Python-black?logo=Python)](https://docs.python.org/)
@@ -32,8 +29,5 @@ I'm **Earl Tankard, Jr., Ph.D.** — a **Software Engineer** who is passionate a
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
 [![Docker](https://img.shields.io/badge/Docker-black?logo=docker&logoColor=white)](https://docs.docker.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
-
-# 📈 Statistics
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=primetimetank21&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=primetimetank21)
