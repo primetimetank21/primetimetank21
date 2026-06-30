@@ -1,33 +1,33 @@
-# Hey There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px" height="25px"><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/beaming-face-with-smiling-eyes_1f601.gif" width="25px" height="25px">
+<h1 align="center">Hey there! 👋 I'm Earl Tankard, Jr.</h1>
+<p align="center"><b>Software Engineer 2 @ Microsoft · Ph.D. — I ship things that work, from prototype to production.</b></p>
 
-I'm **Earl Tankard, Jr., Ph.D.** — a **Software Engineer** who is passionate about **learning new technologies** and **helping others**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/earl-tankard-jr/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
+  <a href="https://github.com/primetimetank21"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" /></a>
+</p>
 
-- 🏢 I'm currently: working at **Microsoft** as a **Software Engineer 2**
-- 🚀 I primarily use: **Python**, **JavaScript**, **Git**, **Linux** && **VS Code**
-- 💻 I *really* enjoy working with: **FastAPI**, **React**, **Pydantic** && **Docker** 
-- ⚡️ Fun fact: When I'm not coding, you can find me playing video games 🎮, working out 💪🏾, and sharpening my Spanish 🇪🇸!
+---
 
+### 👨‍💻 About Me
+- 🏢 Currently: **Software Engineer 2 @ Microsoft**
+- 🚀 Daily drivers: **Terminal**, **Copilot**, and the **docs I'll write tomorrow**
+- ⚡ Fun fact: when I'm not coding — video games 🎮, working out 💪🏾, and sharpening my Spanish 🇪🇸!
 
-**Wanna connect? You can find me here:**
+### 🛠️ Tech Stack
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/earl-tankard-jr/)
+<p align="left"><img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,c" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,html" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=postgres,mysql" /></p>
 
-# Languages and Frameworks
-[![Python](https://img.shields.io/badge/-Python-black?logo=Python)](https://docs.python.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript)](https://www.typescriptlang.org/docs/)
-[![Java](https://img.shields.io/badge/Java-black?logo=openjdk)](https://docs.oracle.com/en/java/)
-[![C++](https://img.shields.io/badge/-C++-black?logo=c)](https://cplusplus.com/doc/)
-[![C](https://img.shields.io/badge/-C-black?logo=c)](https://en.cppreference.com/w/c)
-[![FastAPI](https://img.shields.io/badge/FastAPI-black?logo=fastapi)](https://fastapi.tiangolo.com/)
-[![Node.js](https://img.shields.io/badge/-Nodejs-black?logo=Node.js)](https://nodejs.org/en/docs/)
-[![React](https://img.shields.io/badge/-React-black?logo=react)](https://react.dev/)
-[![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql)](https://dev.mysql.com/doc/)
-[![Git](https://img.shields.io/badge/-Git-black?logo=git)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://docs.github.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
-[![Docker](https://img.shields.io/badge/Docker-black?logo=docker&logoColor=white)](https://docs.docker.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=primetimetank21&hide_current_streak=true&hide_longest_streak=true&theme=tokyonight&hide_border=true&card_width=400" alt="Total Contributions" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=primetimetank21&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=primetimetank21)
