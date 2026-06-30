@@ -10,8 +10,7 @@
 
 ### 👨‍💻 About Me
 - 🏢 Currently: **Software Engineer 2 @ Microsoft**
-- 🚀 Daily drivers: **Python**, **JavaScript**, **Git**, **Linux** & **VS Code**
-- 💻 Really enjoy: **FastAPI**, **React**, **Pydantic** & **Docker**
+- 🚀 Daily drivers: **Terminal**, **Copilot**, and an **unreasonable number of browser tabs**
 - ⚡ Fun fact: when I'm not coding — video games 🎮, working out 💪🏾, and sharpening my Spanish 🇪🇸!
 
 ### 🛠️ Tech Stack
