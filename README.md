@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 - 🏢 Currently: **Software Engineer 2 @ Microsoft**
-- 🚀 Daily drivers: **Terminal**, **Copilot**, and an **unreasonable number of browser tabs**
+- 🚀 Daily drivers: **Terminal**, **Copilot**, and the **docs I'll write tomorrow**
 - ⚡ Fun fact: when I'm not coding — video games 🎮, working out 💪🏾, and sharpening my Spanish 🇪🇸!
 
 ### 🛠️ Tech Stack
