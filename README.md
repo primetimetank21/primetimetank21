@@ -1,33 +1,41 @@
-# Hey There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px" height="25px"><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/beaming-face-with-smiling-eyes_1f601.gif" width="25px" height="25px">
+<h1 align="center">Hey there! 👋 I'm Earl Tankard, Jr., Ph.D.</h1>
+<p align="center"><b>Software Engineer @ Microsoft</b> — passionate about learning new tech and helping others.</p>
 
-I'm **Earl Tankard, Jr., Ph.D.** — a **Software Engineer** who is passionate about **learning new technologies** and **helping others**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/earl-tankard-jr/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
+  <a href="https://github.com/primetimetank21"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" /></a>
+</p>
 
-- 🏢 I'm currently: working at **Microsoft** as a **Software Engineer 2**
-- 🚀 I primarily use: **Python**, **JavaScript**, **Git**, **Linux** && **VS Code**
-- 💻 I *really* enjoy working with: **FastAPI**, **React**, **Pydantic** && **Docker** 
-- ⚡️ Fun fact: When I'm not coding, you can find me playing video games 🎮, working out 💪🏾, and sharpening my Spanish 🇪🇸!
+---
 
+### 👨‍💻 About Me
+- 🏢 Currently: **Software Engineer 2 @ Microsoft**
+- 🚀 Daily drivers: **Python**, **JavaScript**, **Git**, **Linux** & **VS Code**
+- 💻 Really enjoy: **FastAPI**, **React**, **Pydantic** & **Docker**
+- ⚡ Fun fact: when I'm not coding — video games 🎮, working out 💪🏾, and sharpening my Spanish 🇪🇸!
 
-**Wanna connect? You can find me here:**
+### 🛠️ Tech Stack
+**Languages**
+![Python](https://img.shields.io/badge/-Python-black?logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript) ![Java](https://img.shields.io/badge/Java-black?logo=openjdk) ![C++](https://img.shields.io/badge/-C++-black?logo=cplusplus) ![C](https://img.shields.io/badge/-C-black?logo=c)
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/earl-tankard-jr/)
+**Frameworks & Libraries**
+![FastAPI](https://img.shields.io/badge/FastAPI-black?logo=fastapi) ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=Node.js) ![React](https://img.shields.io/badge/-React-black?logo=react) ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5)
 
-# Languages and Frameworks
-[![Python](https://img.shields.io/badge/-Python-black?logo=Python)](https://docs.python.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript)](https://www.typescriptlang.org/docs/)
-[![Java](https://img.shields.io/badge/Java-black?logo=openjdk)](https://docs.oracle.com/en/java/)
-[![C++](https://img.shields.io/badge/-C++-black?logo=c)](https://cplusplus.com/doc/)
-[![C](https://img.shields.io/badge/-C-black?logo=c)](https://en.cppreference.com/w/c)
-[![FastAPI](https://img.shields.io/badge/FastAPI-black?logo=fastapi)](https://fastapi.tiangolo.com/)
-[![Node.js](https://img.shields.io/badge/-Nodejs-black?logo=Node.js)](https://nodejs.org/en/docs/)
-[![React](https://img.shields.io/badge/-React-black?logo=react)](https://react.dev/)
-[![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql)](https://dev.mysql.com/doc/)
-[![Git](https://img.shields.io/badge/-Git-black?logo=git)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://docs.github.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
-[![Docker](https://img.shields.io/badge/Docker-black?logo=docker&logoColor=white)](https://docs.docker.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+**Tools & Platforms**
+![Git](https://img.shields.io/badge/-Git-black?logo=git) ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-black?logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-black?logo=visualstudiocode&logoColor=007ACC)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=primetimetank21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=primetimetank21&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=primetimetank21&theme=tokyonight&hide_border=true" />
+</p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=primetimetank21)
