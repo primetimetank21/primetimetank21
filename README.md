@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/earl-tankard-jr/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
   <a href="https://github.com/primetimetank21"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" /></a>
+  <a href="https://primetimetank21.github.io"><img src="https://img.shields.io/badge/Portfolio-1a1b26?logo=astro&logoColor=e0af68&style=flat" /></a>
 </p>
 
 ---
