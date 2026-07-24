@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Earl Tankard, Jr.</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer+2+%40+Microsoft;Builder+of+things+that+work%2C+prototype+to+prod;Python+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+Docker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer+2+%40+Microsoft;Builder+of+things+that+work%2C+prototype+to+prod;Frontend+%C2%B7+Backend+%C2%B7+Whatever+You+Need" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=fff" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=fff" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=fff" />
 </p>
 
 **Databases:**
