@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=fff" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=fff" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=000" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=fff" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=fff" />
 </p>
 
 **Frameworks & Libraries:**
@@ -43,6 +45,8 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=fff" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=fff" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=fff" />
 </p>
 
