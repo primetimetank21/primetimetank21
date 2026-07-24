@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 - 🏢 Currently: **Software Engineer 2 @ Microsoft**
-- 🚀 Daily drivers: **Terminal**, **Copilot**, and the **docs I'll write tomorrow**
+- 🚀 Daily drivers: **Terminal**, **Copilot**, and the **Docs I'll write tomorrow**
 - ⚡ Fun fact: when I'm not coding — video games 🎮, working out 💪🏾, and sharpening my Spanish 🇪🇸!
 
 ### 🛠️ Tech Stack
@@ -41,15 +41,16 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=fff" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=fff" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=fff" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=fff" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=fff" />
 </p>
 
 **Databases:**
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff" />
 </p>
 
 ---
