@@ -63,8 +63,5 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=primetimetank21&hide_current_streak=true&hide_longest_streak=true&theme=tokyonight&hide_border=true&card_width=400" alt="Total Contributions" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=primetimetank21&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=primetimetank21)
