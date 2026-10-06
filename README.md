@@ -6,11 +6,11 @@ I build software from prototype toward production, with a focus on clear interfa
 
 [Portfolio & project stories](https://primetimetank21.github.io/) · [LinkedIn](https://www.linkedin.com/in/earl-tankard-jr/)
 
-## At the keyboard
+## Technical focus
 
 Python, TypeScript/JavaScript, and C++ · APIs, developer tooling, and web interfaces.
 
-## Away from the keyboard
+## Outside of work
 
 Video games, working out, and sharpening my Spanish.
 
