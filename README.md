@@ -15,3 +15,5 @@ Python, TypeScript/JavaScript, and C++ · APIs, developer tooling, and web inter
 Video games, working out, and sharpening my Spanish.
 
 Explore the pinned repositories below for code and experiments.
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=primetimetank21)
