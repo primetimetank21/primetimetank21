@@ -6,20 +6,21 @@
 
 <p align="center"><strong>Software Engineer 2 at Microsoft · MAIDAP</strong></p>
 
-<p align="center">I build software from prototype toward production, with a focus on clear interfaces, useful automation, and tests that make changes easier to trust.</p>
+<p align="center">I build useful tools—and care about the details that make them dependable.</p>
 
 <p align="center">
   <a href="https://primetimetank21.github.io/">Portfolio &amp; project stories</a> · <a href="https://www.linkedin.com/in/earl-tankard-jr/">LinkedIn</a>
 </p>
 
-## Technical focus
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=fff" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=fff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&amp;logo=cplusplus&amp;logoColor=fff" alt="C++" />
+</p>
 
-Python, TypeScript/JavaScript, and C++ · APIs, developer tooling, and web interfaces.
+<p align="center">APIs · Developer tooling · Web interfaces</p>
 
-## Outside of work
-
-Video games, working out, and sharpening my Spanish.
-
-Explore the pinned repositories below for code and experiments.
+<p align="center">🎮 Video games · 💪🏾 Working out · 🇪🇸 Spanish practice</p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=primetimetank21)
