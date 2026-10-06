@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="180" viewBox="0 0 960 180" role="img" aria-labelledby="title desc">
+  <title id="title">Build. Test. Ship.</title>
+  <desc id="desc">A static terminal-inspired banner in Tokyo Night colors.</desc>
+  <rect x="1" y="1" width="958" height="178" rx="18" fill="#1a1b26" stroke="#414868" stroke-width="2"/>
+  <path d="M2 44h956" stroke="#414868"/>
+  <circle cx="26" cy="23" r="5" fill="#f7768e"/>
+  <circle cx="44" cy="23" r="5" fill="#e0af68"/>
+  <circle cx="62" cy="23" r="5" fill="#9ece6a"/>
+  <text x="87" y="28" fill="#a9b1d6" font-family="monospace" font-size="14">primetimetank21</text>
+  <text x="38" y="124" fill="#9ece6a" font-family="monospace" font-size="52" font-weight="700">&gt;_</text>
+  <text x="130" y="122" font-family="monospace" font-size="46" font-weight="700"><tspan fill="#7dcfff">build.</tspan><tspan fill="#bb9af7"> test.</tspan><tspan fill="#c0caf5"> ship.</tspan></text>
+  <g fill="none" stroke="#7aa2f7" stroke-width="2">
+    <rect x="760" y="73" width="43" height="35" rx="7"/>
+    <path d="M803 90h31v36h31"/>
+    <rect x="865" y="109" width="43" height="35" rx="7"/>
+    <path d="M782 108v35h42" stroke="#bb9af7"/>
+    <circle cx="831" cy="143" r="6" stroke="#bb9af7"/>
+  </g>
+</svg>

@@ -1,10 +1,16 @@
-# Hey, I'm Earl.
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Build. Test. Ship. — a terminal-inspired banner." width="840" />
+</p>
 
-**Software Engineer 2 at Microsoft · MAIDAP**
+<h1 align="center">Hey, I'm Earl.</h1>
 
-I build software from prototype toward production, with a focus on clear interfaces, useful automation, and tests that make changes easier to trust.
+<p align="center"><strong>Software Engineer 2 at Microsoft · MAIDAP</strong></p>
 
-[Portfolio & project stories](https://primetimetank21.github.io/) · [LinkedIn](https://www.linkedin.com/in/earl-tankard-jr/)
+<p align="center">I build software from prototype toward production, with a focus on clear interfaces, useful automation, and tests that make changes easier to trust.</p>
+
+<p align="center">
+  <a href="https://primetimetank21.github.io/">Portfolio &amp; project stories</a> · <a href="https://www.linkedin.com/in/earl-tankard-jr/">LinkedIn</a>
+</p>
 
 ## Technical focus
 
