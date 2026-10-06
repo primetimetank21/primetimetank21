@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.svg" />
-    <img src="./assets/profile-banner-light.svg" alt="primetimetank21 — terminal-inspired profile banner" width="840" />
+    <img src="./assets/profile-banner-light.svg" alt="From prototype to production — terminal-inspired profile banner" width="840" />
   </picture>
 </p>
 

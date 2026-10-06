@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="180" viewBox="0 0 960 180" role="img" aria-labelledby="title desc">
-  <title id="title">primetimetank21</title>
+  <title id="title">from prototype to production</title>
   <desc id="desc">A static terminal-inspired profile banner in a dark palette.</desc>
   <rect x="1" y="1" width="958" height="178" rx="18" fill="#1a1b26" stroke="#414868" stroke-width="2"/>
   <path d="M2 44h956" stroke="#414868"/>
@@ -8,7 +8,7 @@
   <circle cx="62" cy="23" r="5" fill="#9ece6a"/>
   <text x="87" y="28" fill="#a9b1d6" font-family="monospace" font-size="14">README.md</text>
   <text x="38" y="124" fill="#9ece6a" font-family="monospace" font-size="52" font-weight="700">&gt;_</text>
-  <text x="130" y="122" font-family="monospace" font-size="46" font-weight="700"><tspan fill="#7dcfff">primetime</tspan><tspan fill="#bb9af7">tank21</tspan></text>
+  <text font-family="monospace" font-size="46" font-weight="700"><tspan x="130" y="96" fill="#7dcfff">from prototype</tspan><tspan x="130" y="152" fill="#bb9af7">to production</tspan></text>
   <g fill="none" stroke="#7aa2f7" stroke-width="2">
     <rect x="760" y="73" width="43" height="35" rx="7"/>
     <path d="M803 90h31v36h31"/>
