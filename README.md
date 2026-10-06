@@ -16,13 +16,6 @@
   <a href="https://primetimetank21.github.io/">Portfolio &amp; project stories</a> · <a href="https://www.linkedin.com/in/earl-tankard-jr/">LinkedIn</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=fff" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=fff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&amp;logo=cplusplus&amp;logoColor=fff" alt="C++" />
-</p>
-
 <p align="center">APIs · Developer tooling · Web interfaces</p>
 
 <p align="center">🎮 Video games · 💪🏾 Working out · 🇪🇸 Spanish practice</p>
