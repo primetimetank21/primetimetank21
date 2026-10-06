@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Build. Test. Ship. — a terminal-inspired banner." width="840" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.svg" />
+    <img src="./assets/profile-banner-light.svg" alt="primetimetank21 — terminal-inspired profile banner" width="840" />
+  </picture>
 </p>
 
 <h1 align="center">Hey, I'm Earl.</h1>
