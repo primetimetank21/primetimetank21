@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
+  <title id="title">from prototype to production</title>
+  <desc id="desc">A finished forward mark beside the wordmark, with no animation.</desc>
+  <path pathLength="1" d="M169 116H215V101L242 121L215 141V126H169Z" fill="#8250df" stroke="#8250df" stroke-width="1.5" stroke-linejoin="round" stroke-dasharray="1" stroke-dashoffset="0"/>
+  <text font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <tspan x="299" y="94" fill="#57606a" font-size="40" font-weight="500">from prototype</tspan>
+    <tspan x="299" y="170" fill="#1f2328" font-size="64" font-weight="800" font-style="italic">to production</tspan>
+  </text>
+</svg>
