@@ -1,19 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="180" viewBox="0 0 960 180" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
   <title id="title">from prototype to production</title>
-  <desc id="desc">A static terminal-inspired profile banner in a light palette.</desc>
-  <rect x="1" y="1" width="958" height="178" rx="18" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
-  <path d="M2 44h956" stroke="#d0d7de"/>
-  <circle cx="26" cy="23" r="5" fill="#cf222e"/>
-  <circle cx="44" cy="23" r="5" fill="#9a6700"/>
-  <circle cx="62" cy="23" r="5" fill="#1a7f37"/>
-  <text x="87" y="28" fill="#57606a" font-family="monospace" font-size="14">README.md</text>
-  <text x="38" y="124" fill="#1a7f37" font-family="monospace" font-size="52" font-weight="700">&gt;_</text>
-  <text font-family="monospace" font-size="46" font-weight="700"><tspan x="130" y="96" fill="#0969da">from prototype</tspan><tspan x="130" y="152" fill="#8250df">to production</tspan></text>
-  <g fill="none" stroke="#0969da" stroke-width="2">
-    <rect x="760" y="73" width="43" height="35" rx="7"/>
-    <path d="M803 90h31v36h31"/>
-    <rect x="865" y="109" width="43" height="35" rx="7"/>
-    <path d="M782 108v35h42" stroke="#8250df"/>
-    <circle cx="831" cy="143" r="6" stroke="#8250df"/>
+  <desc id="desc">An original outlined cube with a solid facet beside a two-line wordmark, on a transparent background.</desc>
+  <g transform="translate(169 77)" stroke-linejoin="round" stroke-width="4">
+    <path d="M0 22 38 0 76 22 38 44Z M0 22v44l38 22V44" fill="none" stroke="#0969da"/>
+    <path d="m38 44 38-22v44L38 88Z" fill="#8250df" stroke="#8250df"/>
   </g>
+  <text font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <tspan x="299" y="94" fill="#57606a" font-size="40" font-weight="500">from prototype</tspan>
+    <tspan x="299" y="170" fill="#1f2328" font-size="64" font-weight="800" font-style="italic">to production</tspan>
+  </text>
 </svg>
