@@ -1,23 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
   <title id="title">from prototype to production</title>
-  <desc id="desc">A sketched forward arrow resolves into a finished mark, rests, and replays every 10 seconds. Reduced-motion preferences receive the finished mark immediately.</desc>
+  <desc id="desc">A sketched forward arrow resolves into a finished mark, rests, and replays every 7 seconds. Reduced-motion preferences receive the finished mark immediately.</desc>
   <style>
     .guide { opacity: 0; }
     .mark { stroke-dasharray: 1; stroke-dashoffset: 0; fill-opacity: 1; stroke-opacity: 1; }
     @media (prefers-reduced-motion: no-preference) {
-      .guide { animation: guide-out 10s ease-out infinite both; }
-      .mark { animation: finish 10s ease-out infinite both; }
+      .guide { animation: guide-out 7s ease-out infinite both; }
+      .mark { animation: finish 7s ease-out infinite both; }
     }
-    /* Draw for 1.45s, hold the finished mark, then crossfade back to the sketch. */
+    /* 1.45s draw + 5.26s hold + 0.29s crossfade back to the sketch = 7s. */
     @keyframes guide-out {
-      0%, 4.35%, 100% { opacity: .42; }
-      10.15%, 97.1% { opacity: 0; }
+      0%, 6.214286%, 100% { opacity: .42; }
+      14.5%, 95.857143% { opacity: 0; }
     }
     @keyframes finish {
-      0%, 2.175% { stroke-dashoffset: 1; fill-opacity: 0; stroke-opacity: 0; }
-      3.625% { stroke-opacity: 1; }
-      10.15% { stroke-dashoffset: 0; fill-opacity: 0; stroke-opacity: 1; }
-      14.5%, 97.1% { stroke-dashoffset: 0; fill-opacity: 1; stroke-opacity: 1; }
+      0%, 3.107143% { stroke-dashoffset: 1; fill-opacity: 0; stroke-opacity: 0; }
+      5.178571% { stroke-opacity: 1; }
+      14.5% { stroke-dashoffset: 0; fill-opacity: 0; stroke-opacity: 1; }
+      20.714286%, 95.857143% { stroke-dashoffset: 0; fill-opacity: 1; stroke-opacity: 1; }
       100% { stroke-dashoffset: 0; fill-opacity: 0; stroke-opacity: 0; }
     }
   </style>
